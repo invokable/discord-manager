@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `invokable/discord-manager` is a Laravel package that simplifies Discord bot development by providing a robust framework for handling Discord Interactions via webhooks. This package serves Laravel developers who want to build Discord bots without dealing with the complexities of Discord's API directly.
+The `discord-manager` is a Laravel package that simplifies Discord bot development by providing a robust framework for handling Discord Interactions via webhooks. This package serves Laravel developers who want to build Discord bots without dealing with the complexities of Discord's API directly.
 
 **Target Users:** Laravel developers building Discord applications, bots, or integrations
 
