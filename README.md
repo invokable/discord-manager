@@ -28,8 +28,8 @@ The package operates by receiving webhook requests from Discord when users inter
 - [Laravel Notification for Discord(Webhook)](https://github.com/invokable/laravel-notification-discord-webhook)
 
 ## Requirements
-- PHP >= 8.2
-- Laravel >= 11.0
+- PHP >= 8.3
+- Laravel >= 12.0
 
 ## Installation
 
